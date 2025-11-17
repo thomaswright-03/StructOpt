@@ -1,2 +1,28 @@
-.venv
+# --- Python ----
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual Environment ---
+.venv/
+env/
+venv/
+
+# --- Jupyter Notebook Junk ---
+.ipynb_checkpoints/
+
+# --- VS Code ---
+.vscode/
+
+# --- Figures & Outputs ---
+figures/
+*.png
+*.pdf
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
